@@ -34,18 +34,21 @@ Curious by nature, analytical by mindset, and always improving my craft.
 # 🏆 Achievements & Badges  
 
 <div align="center">
+
   <img src="https://github-profile-trophy.vercel.app/?username=arsudsandesh97&theme=gitdimmed&no-frame=true&margin-w=10" alt="Trophies" />
+
   <br/>
+
   <img src="https://komarev.com/ghpvc/?username=arsudsandesh97&color=B784F7&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
 
-# 🌐 Connect With Me
-
-**Portfolio:** https://YOUR_PORTFOLIO_LINK  
-**LinkedIn:** https://www.linkedin.com/in/sandesh-arsud  
-**Email:** your-email@example.com
+# 🌐 Connect With Me  
+**Portfolio:** [arsudsandesh97.github.io](https://arsudsandesh97.github.io/)  
+**LinkedIn:** [linkedin.com/in/sandesh-arsud](https://www.linkedin.com/in/sandesh-arsud)  
+**Email:** [contact.arsudsandesh@gmail.com](mailto:contact.arsudsandesh@gmail.com)
 
 ---
 
