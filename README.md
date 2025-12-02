@@ -1,19 +1,57 @@
-<h1 align="center">Hi 👋, I'm Sandesh Arsud</h1>
-<h3 align="center">Highly analytical, detail-oriented, and provides deep insights backed by thorough research. A curious and passionate individual, who is eager to learn and dive deep into the subject matter.</h3>
+<!-- ========================= HERO ========================= -->
+<div align="center">
 
-- 🌱 I’m currently learning **Data Science**
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2400&pause=900&color=B784F7&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Power+BI+%7C+SQL+%7C+Python;Transforming+Data+Into+Actionable+Insights;Analytics+Mindset+With+Creative+Thinking;Always+Learning+Always+Building" />
 
-- 📫 How to reach me **mailto:contact.arsudsandesh@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sandesharsud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandesharsud" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/arsudsandesh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arsudsandesh97" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+# 🧑‍💼 About Me  
+I'm **Sandesh Arsud**, a Data Analyst who uncovers patterns and builds dashboards that make insights clear and actionable.  
+I work with **Power BI**, **SQL**, **Python**, and **Excel**, focusing on turning complex information into simple business decisions.  
+Curious by nature, analytical by mindset, and always improving my craft.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsudsandesh97&show_icons=true&locale=en&layout=compact" alt="arsudsandesh97" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsudsandesh97&show_icons=true&locale=en" alt="arsudsandesh97" /></p>
+# 🚀 Currently Working On  
+- Developing interactive dashboards in Power BI  
+- Optimizing SQL queries for analytics  
+- Deep-diving into Python EDA and visualization  
+- Building real-world analytics portfolio projects  
+
+---
+
+# 💻 Tech Stack  
+
+💻 **Languages:** Python | SQL | DAX  
+📊 **Analytics & BI Tools:** Power BI | Excel  
+🧪 **Data Processing & Libraries:** Pandas | NumPy | Matplotlib | Seaborn  
+🗄️ **Databases & Tools:** MySQL | PostgreSQL | Git | GitHub | VS Code  
+
+---
+
+# 🏆 Achievements & Badges  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arsudsandesh97&theme=gitdimmed&no-frame=true&margin-w=10" alt="Trophies" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=arsudsandesh97&color=B784F7&style=flat-square" alt="Profile views" />
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+**Portfolio:** https://YOUR_PORTFOLIO_LINK  
+**LinkedIn:** https://www.linkedin.com/in/sandesh-arsud  
+**Email:** your-email@example.com
+
+---
+
+<div align="center">
+
+### Thanks for visiting  
+Let’s build, explore, and create meaningful insights together.
+
+</div>
