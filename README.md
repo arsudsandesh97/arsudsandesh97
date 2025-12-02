@@ -8,9 +8,7 @@
 ---
 
 # 🧑‍💼 About Me  
-I'm **Sandesh Arsud**, a Data Analyst who uncovers patterns and builds dashboards that make insights clear and actionable.  
-I work with **Power BI**, **SQL**, **Python**, and **Excel**, focusing on turning complex information into simple business decisions.  
-Curious by nature, analytical by mindset, and always improving my craft.
+I'm **Sandesh Arsud**, a Data Analyst who uncovers patterns and builds dashboards that make insights clear and actionable.I work with **Power BI**, **SQL**, **Python**, and **Excel**, focusing on turning complex information into simple business decisions. Curious by nature, analytical by mindset, and always improving my craft.
 
 ---
 
